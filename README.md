@@ -1,4 +1,4 @@
-# VideoGAN
+# Unconditional Video Generation using VideoGAN
 
 Course Project done as part of Generative and Graphical Models for Machine Learning (AI60201) @ IIT Kharagpur
 
